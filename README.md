@@ -1,4 +1,5 @@
-# POO
+# POO sambaSchool
+
 
 
 Este projeto apresenta um crud completo, para que voce possa estar rodando ele em sua maquina  vai precisar de um banco de dados .
@@ -9,7 +10,7 @@ apos abrir  o projeto no eclipse,  tem uma pasta chamada "SQL", nesta pasta tem 
 executar, criando assim o banco para que o projeto funcione.
 
 criado o banco  é necessario mudar suas permissoes de acesso, na pasta "SRC" no pacote "DAO" tem  uma classe chamda "GenericDao", 
-esta é a classe de conexao, o nome padrao que vai ao fazer download é "projetosambao" para o banco, e "leandro","leandro123" para usuario
+esta é a classe de conexao, o nome padrao que  ao fazer download é "sambaSchool" para o banco, e "user","password" para usuario
 e senha respectivamente. caso deseje mudar para seu proprio usuario e senha, é só alterar nesta classe.
  
  
