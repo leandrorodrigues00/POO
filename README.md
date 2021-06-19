@@ -9,7 +9,7 @@ https://www.microsoft.com/pt-br/download/details.aspx?id=42299
 apos abrir  o projeto no eclipse,  tem uma pasta chamada "SQL", nesta pasta tem a query do sql, basta copiar esse query para o seu SGBD e 
 executar, criando assim o banco para que o projeto funcione.
 
-criado o banco  é necessario mudar suas permissoes de acesso, na pasta "SRC" no pacote "DAO" tem  uma classe chamda "GenericDao", 
+criado o banco  é necessario mudar suas permissoes de acesso, na pasta "SRC" no pacote "DAO" tem  uma classe chamada "GenericDao", 
 esta é a classe de conexao, o nome padrao que  ao fazer download é "sambaSchool" para o banco, e "user","password" para usuario
 e senha respectivamente. caso deseje mudar para seu proprio usuario e senha, é só alterar nesta classe.
  
