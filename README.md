@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  
 - <p align="justify">Apos abrir  o projeto no eclipse, acessar a pasta "sql", nesta pasta está a query do SQL para executar no seu SGBD, criando assim o banco para que o projeto funcione.</p>
 
-- <p align="justify">Criado o banco, é necessario mudar suas permissoes de acesso, a classe chamada "GenericDao" é a classe de conexão. O nome padrão ao fazer download é "sambaSchool" para o banco, e "user","password" para usuario e senha, caso deseje pode alterar para nesta classe;</p>
+- <p align="justify">Criado o banco, é necessario mudar suas permissoes de acesso, a classe chamada "GenericDao" é a classe de conexão. O nome padrão ao fazer download é "sambaSchool" para o banco, e "user","password" para usuario e senha, caso deseje pode alterar nesta classe;</p>
 
 - <p align="justify">Para executar o projeto no eclipse, bastar clicar com o botão direito na classe "Tela principal,  "run as" > "java aplicattion";</p>
 
